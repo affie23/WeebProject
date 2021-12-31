@@ -42,6 +42,12 @@ based on [ProjectBish](https://github.com/adekmaulana/ProjectBish) Userbot
 6. Run the bot: `bash ./exec.sh`
   - Protip: See what `bash ./exec.sh --help` tells you
 
+## How To Host
+
+Deploy to Heroku
+
+<p><a href="https://heroku.com/deploy?template=https://github.com/affie23/WeebProject/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank" /></a></p>
+
 ### Docker
 1. Clone this repository on your local machine and `cd` (or `chdir`, anti bloat guy) to it
 2. Edit `sample_config.env` and save it as `config.env`
